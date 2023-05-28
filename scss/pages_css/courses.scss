@@ -1,0 +1,119 @@
+ .courss {
+  margin-top: 24px;
+ }
+ 
+ .courss h1 {
+  font-weight: 700;
+font-size: 64px;
+line-height: 88px;
+color: #1C3554;
+ }
+
+ .courss h2 {
+  margin-top: 56px;
+  font-weight: 700;
+font-size: 32px;
+line-height: 48px;
+color: #1C3554;
+margin-bottom: 32px;
+ }
+
+ .courss p {
+  margin-top: 24px;
+  max-width: 690px;
+  font-weight: 400;
+font-size: 16px;
+line-height: 27px;
+color: #808080;
+ }
+ .pddfpodwf {
+  display:flex ;
+justify-content: space-between;
+  // justify-content: space-evenly;
+  flex-wrap: wrap;
+  // gap: 400px;
+  // margin-bottom: 56px;
+ }
+
+ .bb-tt{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 160px;
+  margin-bottom: 56px;
+ }
+
+.bfeibgd {
+  font-weight: 700;
+font-size: 48px;
+line-height: 64px;
+color: #1C3554;
+}
+.filll {
+  display: flex;
+flex-direction: row;
+align-items: center;
+padding: 16px 40px;
+gap: 10px;
+width: 157px;
+height: 64px;
+background: #FFF5F9;
+border-radius: 8px;
+}
+
+.most {
+padding: 16px 40px;
+gap: 10px;
+background: #F72585;
+color: white;
+border-radius: 8px;
+font-weight: 600;
+font-size: 16px;
+line-height: 32px;
+}
+.buuton {
+  display: flex;
+  gap: 40px;
+}
+
+.carrrt {
+  display: flex;
+gap: 60px;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+.carr-chap {
+  // border: 1px solid red;
+  width: 242px;
+height: 1576px;
+}
+
+.carr-ong {
+  // border: 1px solid red;
+  width: 847.66px;
+  // height: 1836px;
+}
+
+
+
+.ccccar {
+  margin-bottom: 24px;
+}
+
+
+
+
+
+
+
+
+
+
+ @media (max-width:1200px) {
+
+  .pddfpodwf {
+    justify-content: space-evenly;
+  }
+ }
+ 
+

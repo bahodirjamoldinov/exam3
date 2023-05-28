@@ -1,0 +1,92 @@
+.dfkiwgf .efkorg {
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 88px;
+  color: #ccc;
+  margin-top: 64px;
+}
+
+.cardlarrr {
+  margin-top: 96px;
+}
+
+.carrrrrr {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  gap: 70px;
+  margin-bottom: 56px;
+}
+
+.carrrrrr .car-img {
+  width: 608px;
+  height: 517px;
+  background: #CCCCCC;
+  border-radius: 8px;
+}
+
+.car-sozz h1 {
+  margin-top: 15px;
+  width: 500px;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  color: #1C3554;
+}
+
+.ppp {
+  display: flex;
+  gap: 16px;
+}
+
+.car-sozz p {
+  margin-top: 16px;
+  font-size: 14px;
+  line-height: 24px;
+  color: #808080;
+}
+
+.car-sozz h2 {
+  margin-top: 16px;
+  max-width: 500px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 27px;
+  color: #808080;
+  margin-bottom: 72px;
+}
+
+.car-sozz .buta {
+  text-decoration: none;
+  padding: 12px 36px;
+  font-size: 16px;
+  line-height: 32px;
+  color: #FFFFFF;
+  background: #F72585;
+  border-radius: 8px;
+}
+
+.dokfgl {
+  max-width: 320px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 120px;
+}
+
+.dok-son {
+  width: 32px;
+  height: 32px;
+  font-size: 16px;
+  line-height: 32px;
+  color: #CCCCCC;
+  text-align: center;
+  cursor: pointer;
+}
+
+.dok-son:hover {
+  color: white;
+  background: #F72585;
+  border-radius: 4px;
+  transition: all 0.8s;
+}/*# sourceMappingURL=blog.css.map */
